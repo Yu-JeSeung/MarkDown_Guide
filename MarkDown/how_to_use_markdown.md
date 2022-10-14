@@ -17,7 +17,7 @@
 2. 두번째
 3. 세번째
 ```
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/88806404/195787105-195f7f10-f82d-4bef-8d71-487a79dfc7a6.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/88806404/195787105-195f7f10-f82d-4bef-8d71-487a79dfc7a6.png">
 <br><br>
 
 ### 순서가 없는 목록(*,+,-)
@@ -35,7 +35,7 @@
     - 녹색
         - 파랑
 ```
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/88806404/195787502-fd904be7-0472-48d2-98d3-ee1621435e7e.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/88806404/195787502-fd904be7-0472-48d2-98d3-ee1621435e7e.png">
 <br>
 혼합하여 사용도 가능합니다.
 
